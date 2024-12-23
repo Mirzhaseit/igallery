@@ -124,10 +124,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+![alt text](<Screenshot (182).png>)
 
-![alt text](gallery.png)
-![alt text](gal2.png)
-
+![alt text](<Screenshot (183).png>)
 
 
 ## RESULT:
