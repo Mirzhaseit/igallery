@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
+## Date:23/12/24
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -107,6 +107,17 @@ Publish the website in the given URL.
     <footer>
         Designed and developed by MIRZHA FATHIMA S; 2024
     </footer>
+
+    <script>
+        function zoomInOut(imageId) {
+            var image = document.getElementById(imageId);
+            if (image.style.transform === "scale(2)") {
+                image.style.transform = "scale(1)";  
+            } else {
+                image.style.transform = "scale(2)";  
+            }
+        }
+    </script>
 </body>
 </html>
 
